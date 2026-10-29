@@ -12,7 +12,7 @@
 //
 //     Ceritanya          — apa yang sedang terjadi, dan apa yang diminta
 //     Parameternya       — arti setiap parameter, satu per satu
-//     Contoh             — contoh nyata beserta hasil yang benar
+//     Contoh             — contoh nyata beserta hasil yang benar 
 //     Yang perlu diingat — hal khusus yang ikut dinilai
 //
 // Seluruhnya ada 3 soal dan 5 fungsi:
